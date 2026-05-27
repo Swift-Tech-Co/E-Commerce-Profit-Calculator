@@ -1,0 +1,12 @@
+{
+  "name": "e-commerce-profit-calculator",
+  "version": "1.0.0",
+  "description": "E-commerce revenue, fees, and net profit calculator — Swift Tech Co.",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "keywords": ["ecommerce", "profit", "shopify", "amazon", "calculator", "swift-tech-co"],
+  "license": "MIT",
+  "homepage": "https://swifttechco.com/services/ecommerce/shopify-woocommerce"
+}
